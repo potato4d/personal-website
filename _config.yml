@@ -27,23 +27,40 @@ projects:
     projects:
     # - repo-name
 
-# social_media:
-  # behance: your_username
-  # dribbble: your_username
-  # facebook: your_username
-  # linkedin: your_username
-  # medium: @your_username
-  # stackoverflow: your_user_id
-  # twitter: your_username
-  # youtube: your_username
+social_media:
+  facebook: potato4d
+  medium: @potato4d
+  twitter: potato4d
 
 topics:
-  - name: CSS
-    web_url: https://github.com/topics/css
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
+  - name: JavaScript
+    web_url: https://github.com/topics/javascript
+    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/javascript/javascript.png
 
-  - name: Web design
+  - name: TypeScript
+    web_url: https://github.com/topics/typescript
+    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/typescript/typescript.png
 
-  - name: Sass
-    web_url: https://github.com/topics/sass
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
+  - name: I18n
+    web_url: https://github.com/topics/i18n
+
+  - name: React.js
+    web_url: https://reactjs.org
+    image_url: https://github.com/reactjs.png
+
+  - name: Vue.js
+    web_url: https://vuejs.org
+    image_url: https://vuejs.org/images/logo.png
+
+  - name: Nuxt.js
+    web_url: https://nuxtjs.org/
+    image_url: https://github.com/nuxt.png
+
+  - name: Amazon Web Services
+    web_url: https://aws.amazon.com
+    image_url: https://github.com/awslabs.png
+
+  - name: Firebase
+    web_url: https://firebase.google.com
+    image_url: https://github.com/firebase.png
+
